@@ -1,1 +1,1 @@
-import turtle
+print("KKK")
